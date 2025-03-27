@@ -1,0 +1,1 @@
+Component showing available rides.
