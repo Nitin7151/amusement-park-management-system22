@@ -1,0 +1,1 @@
+Scanner for QR codes at entry points.
