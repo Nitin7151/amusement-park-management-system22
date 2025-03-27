@@ -1,0 +1,1 @@
+Detailed view of selected ride.
