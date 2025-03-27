@@ -1,0 +1,1 @@
+Utility for sending notifications (emergencies).
