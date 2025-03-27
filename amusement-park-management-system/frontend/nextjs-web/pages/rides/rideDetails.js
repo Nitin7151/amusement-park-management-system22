@@ -1,0 +1,1 @@
+Detailed view of a ride, including wait times and restrictions.
