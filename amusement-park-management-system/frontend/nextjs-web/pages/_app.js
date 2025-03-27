@@ -1,0 +1,1 @@
+Custom app component for global styles and state.
