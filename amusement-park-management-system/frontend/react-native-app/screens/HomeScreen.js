@@ -1,0 +1,1 @@
+Main screen with navigation to other parts.
